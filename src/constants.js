@@ -1,23 +1,14 @@
 export const scaleFactor = 4;
 
 export const dialogueData = {
-  pc: `This is my PC. I work mostly in JavaScript/TypeScript these days.
-    I've made a couple of games in that language. I also like Golang and Python. Anyway regardless of the language, I just like programming.
-    Here is my <a href="https://github.com/jslegenddev" target="_blank">Github</a>!`,
-  "cs-degree": `This is my CS degree. I hung it on the wall because I'm proud of it. It was a very theoretical degree but I think it gave me a good foundation.`,
-  "sofa-table": `That's my sofa. I like to relax here and watch YouTube. 
-  I also make game programming tutorials on YouTube. Go sub to <a href="https://youtube.com/@jslegenddev" target="_blank">my channel</a>! (If you like the content)
-  You'll learn how I built this portfolio you're currently playing through!`,
-  tv: `That's my TV. I've been watching tech youtubers a lot recently like :
-   <a href="https://www.youtube.com/@ThePrimeTimeagen" target="_blank">Theprimeagen</a>, <a href="https://www.youtube.com/@t3dotgg" target="_blank">Theo - t3.gg</a>,
-  <a href="https://www.youtube.com/@PirateSoftware" target="_blank">PirateSoftware</a> (sometimes) and <a href="https://www.youtube.com/@MelkeyDev" target="_blank">Melkey</a>!`,
-  bed: `This where I sleep. Great ideas comes when I'm lying on my bed. When an idea strikes, I often have to write it down or else I won't be able to sleep because my mental energy is consumed by it.`,
-  resume: `This is my desk and on it is my resume. <a href="https://github.com/JSLegendDev/Resume/blob/main/JSLegend%20Resume-1.pdf" target="_blank">Check it out?</a>
-  Contact me at jslegend@protonmail.com if you have any interesting job opportunities!`,
-  projects: `Info about this portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript.
-  Text is rendered with HTML/CSS. So the textbox you're currently reading is not rendered within canvas. Learn more about how to use
-  Kaboom.js by watching some of my tutorials <a href="https://youtube.com/@jslegenddev" target="_blank">here</a>.`,
-  library: `There are a lot of programming books on my shelves. There is even one in French (I also speak French btw).
-  I probably only read one of them. Who else compulsively buys technical books without ever finishing them?`,
-  exit: `If you want to exit JSLegendDev's portfolio, just close the tab.`,
+    pc: `This is my PC. It's where I bring my ideas to life in code and practice my algorithms. I work mainly with C++, but I also enjoy exploring languages like Python, Java, and JavaScript. I love to code and code to live. Do check out my Leetcode profile <a href="https://leetcode.com/u/Anamika_Rana/"  target="_blank" >here</a>!. `,
+    "cs-degree": `This is my most recent <a href="https://drive.google.com/file/d/1v4SsHmQH-KyQ4raTOP-u1Yv7-i1eSv8Z/view?usp=sharing" target="_blank">Transcript</a> from Graphic Era Hill University. It's a symbol of the theoretical foundation that powers my practical skills. I'm especially proud of my 9.00 CGPA—it reflects the dedication I've put into mastering concepts like DSA, DBMS, and AI.`,
+    "sofa-table": `That's my sofa—my creative corner! When I'm not coding, I relax here, watch tech content, or brainstorm ideas. Did I mention I also research topics like Deep Learning interpretability which i also presented at <a href="https://drive.google.com/file/d/1odWTo3dK9ynqZWwqiMSiB-HUDUiKexRE/view?usp=sharing" target="_blank">ICSES conference 2024</a> ? It's not all relaxation; it's inspiration central!`,
+    tv: `I love spending my free time learning and upskilling. I'm a certified AWS Practitioner, and here are some badges I’ve earned along the way!<a href="https://drive.google.com/drive/folders/1FuahYNNbrbJCCw5ET7jav_W5yclFdgr4?usp=sharing" target="_blank" > AWS KNOWLEDGE BADGES </a>.`,
+    bed: `This is where I sleep and dream about my internship at <a hrefMicrosoft starting this summer. My wildest dreams are coming true, and I can't wait!`,
+    resume: `My desk holds my <a href="https://drive.google.com/file/d/1VfuKqbs7RDLzhAKTclNL5Z2XODZjoREK/view?usp=sharing" target="_blank" >Resume</a> — your gateway to knowing me better. From projects like real-time twitter sentiment analysis on 1.6M tweets to being a Microsoft SEFA Mentee 2024, it's all here. Interested? Check it out or drop me a line at <u>anamikarana2480@gmail.com</u> !`,
+    projects: `This portfolio runs on Kaboom.js, much like how I craft projects like <a href="https://github.com/ANAMIKA-RANA-03/Movie_Recommendation_System" target="_blank">Movie Recommendation System</a>, <a href="https://github.com/ANAMIKA-RANA-03/Twitter_Sentiment_Analysis" target="_blank">Twitter Sentiment Analysis</a> and interactive websites. Want to learn more? Let's build something awesome together and connect on <a href="https://github.com/ANAMIKA-RANA-03" target="_blank">Github</a>!`,
+    library: `Here’s my shelf that holds my proudest accomplishments like: <a href="https://drive.google.com/file/d/1vlE7QYB3CCoHdR1bzE4Y0t_ekVEDep_l/view?usp=sharing" target="_blank">Google Cloud Computing Foundations certificate</a>,   <a href="https://drive.google.com/file/d/1vyBNGHwP6jldJrODQoPbjk-7KF7HP2kG/view?usp=sharing" target="_blank">Amazon ML Summer School Mentee acknowledgement letter</a>,Contributor badge from  <a href="https://drive.google.com/file/d/1GXOiH9ks7N6HiBm-zPlLxl6mdPI2i47h/view?usp=sharing" target="_blank"> GirlScript Summer of Code </a>, among others. Each one tells a story of learning, growth, and passion for technology.`,
+    exit: `Ready to explore new horizons? Close this tab, but don’t forget to connect with me on LinkedIn <a href="https://www.linkedin.com/in/anamikarana03/" target="_blank">here</a>`,
 };
+  
